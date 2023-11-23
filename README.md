@@ -12,7 +12,6 @@ A história de fundo, personalidade e habilidades elementares de cada Pokémon s
 **<h2>📱💻 WebSite</h2>**
 
 
-
 **<h2>⚙ Tecnologia Ultilizada:</h2>**
 <div align="center">
   <img src="https://img.shields.io/badge/HTML-20232A?style=for-the-badge&logo=html5&logoColor=blue" title="trello" alt="trello"/>&nbsp;
