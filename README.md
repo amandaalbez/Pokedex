@@ -4,7 +4,7 @@
 Pokédex é um dispositivo que serve de enciclopédia para o jogador, registrando as espécies que o usuário encontra ao longo do game e dando descrições da espécie do Pokémon (uma vez capturado).
 A história de fundo, personalidade e habilidades elementares de cada Pokémon são catalogadas e os jogadores geralmente recebem uma recompensa especial por preencher o dispositivo, o que é feito capturando um espécime de cada espécie.
 
-**<h2>👨‍💻 Equipe:</h2>**
+**<h2>👩🏻‍💻☕ Equipe:</h2>**
 <li>
   <a href="https://github.com/amandaalbez">Amanda Bezerra de Alcântara</a><br>
 </li>
