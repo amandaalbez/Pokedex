@@ -9,8 +9,12 @@ A história de fundo, personalidade e habilidades elementares de cada Pokémon s
   <a href="https://github.com/amandaalbez">Amanda Bezerra de Alcântara</a><br>
 </li>
 
-**<h2>📱💻 Link Para Acessar WebSite</h2>**
-https://amandaalbez.github.io/Pokedex/
+**<h2>📱💻 WebSite Responsivo</h2>**
+**<h3>📱Mobile</h3>**
+![RPReplay_Final1700754386](https://github.com/amandaalbez/Pokedex/assets/104281621/479ced08-6590-4881-b79a-e1e8dd29c8c9)
+
+**<h3>💻Desktop</h3>**
+
 
 **<h2>⚙ Tecnologia Ultilizada:</h2>**
 <div align="center">
